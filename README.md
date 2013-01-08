@@ -12,4 +12,4 @@ Hanson Yu
 - hangzhong.yu@gmail.com
 
 ## License
-SearchBar is available under the MIT license. See the LICENSE file for more info.
+LanguageHelper is available under the MIT license. See the LICENSE file for more info.
